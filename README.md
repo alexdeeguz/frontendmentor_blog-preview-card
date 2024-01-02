@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/alexdeeguz/frontendmentor_blog-preview-card)
+- Solution URL: [https://github.com/alexdeeguz/frontendmentor_blog-preview-card](https://github.com/alexdeeguz/frontendmentor_blog-preview-card)
 - Live Site URL: [https://frontendmentor-blog-preview-card-two.vercel.app/](https://frontendmentor-blog-preview-card-two.vercel.app/)
 
 ## My process
